@@ -1,0 +1,5 @@
+healthy
+bacterial_spot
+early_blight
+late_blight
+powdery_mildew
