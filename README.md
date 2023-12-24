@@ -1,4 +1,4 @@
-## Jupyter Notebook file
+## Jupyter Notebook file for demonstration
 - Training_Tomato.ipynb
 ## labelImg's source folder
 - labelImg
