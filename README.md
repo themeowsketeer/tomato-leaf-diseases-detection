@@ -1,6 +1,6 @@
 ## Jupyter Notebook file for demonstration
 - Training_Tomato.ipynb
-## labelImg's source folder
+## labelImg's source folder for image labeling
 - labelImg
 ## Dataset folder
 - sample_16_12_2023
